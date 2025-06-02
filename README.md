@@ -39,7 +39,7 @@ Welcome to my portfolio! This repository is a collection of SQL, Python, and dat
 I'm Jasmine Unochi Farah Hatrawijaya, a fresh graduate from Game Technology Major, passionate about data and storytelling. I enjoy working with structured datasets and transforming messy information into actionable insights.
 
 📫 **Connect with me**:  
-- [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/jasmine-unochi-4613a3169/))  
+- [LinkedIn](https://www.linkedin.com/in/jasmine-unochi-4613a3169/)  
 - 📧 jasmineunochii@gmail.com
 
 ---
