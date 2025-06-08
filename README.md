@@ -32,6 +32,17 @@ Welcome to my portfolio! This repository is a collection of SQL, Python, and dat
 
 📄 [View Script](./layoffs_data_cleaning.sql)
 
+### 🔹 2. Layoffs Exploratory Data Analysis (SQL)
+**Goal**: Analyze the cleaned layoffs dataset to extract insights and trends using SQL.
+
+**Highlights**:
+- Aggregated data by year, country, and company
+- Used `DENSE_RANK` and window functions to find top layoffs per year
+- Built rolling monthly layoff trends
+- Identified extreme cases (e.g. 100% layoffs)
+
+📄 [View Project](https://github.com/your-username/data-analytics-portfolio/blob/main/layoffs_eda.sql)
+
 ---
 
 ## 📌 About Me
