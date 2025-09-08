@@ -41,7 +41,7 @@ Welcome to my portfolio! This repository is a collection of SQL, Python, and dat
 - Built rolling monthly layoff trends
 - Identified extreme cases (e.g. 100% layoffs)
 
-📄 [View Project]([https://github.com/uno/data-analytics-portfolio/blob/main/layoffs_eda.sql](https://github.com/unochifarah/data-analytics-portfolio/blob/main/layoffs_eda.sql))
+📄 [View Project]((https://github.com/unochifarah/data-analytics-portfolio/blob/main/layoffs_eda.sql))
 
 ---
 
