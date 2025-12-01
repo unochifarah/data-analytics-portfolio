@@ -7,6 +7,7 @@ Welcome to my portfolio! This repository is a collection of SQL, Python, and dat
 ## 🧠 Skills Highlighted
 
 - SQL (CTEs, window functions, joins, filtering, date and string manipulation)
+- Database management and querying with PostgreSQL
 - Data cleaning and standardization
 - Exploratory Data Analysis (EDA)
 - Data visualization (Matplotlib, Seaborn, Power BI)
@@ -42,6 +43,24 @@ Welcome to my portfolio! This repository is a collection of SQL, Python, and dat
 - Identified extreme cases (e.g. 100% layoffs)
 
 📄 [View Project](./layoffs_eda.sql))
+
+### 🔹 3. UKT Indonesia Analysis (PostgreSQL + SQL)
+Dataset:
+[UKT PTN Indonesia S1/D4/D3](https://www.kaggle.com/datasets/irvifa/ukt-ptn-indonesia-s1-d4-d3) – sourced from Kaggle.
+
+**Workflow**:
+- Imported the CSV dataset into a PostgreSQL database.
+- Connected PostgreSQL to Visual Studio Code using the SQL Tools extension.
+- Performed analysis using CTEs, LEAST(), GREATEST(), grouping, categorization, and ranking logic.
+
+**Highlights**:
+- Calculated minimum and maximum UKT values per university and program.
+- Computed UKT gaps to identify pricing disparities.
+- Ranked universities with the highest UKT levels.
+- Classified universities into fee tiers based on minimum UKT.
+- Produced clean, standardized SQL scripts for reproducible analysis.
+
+📄 [View Project](./ukt_db.session.sql))
 
 ---
 
