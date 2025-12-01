@@ -19,7 +19,8 @@ Welcome to my portfolio! This repository is a collection of SQL, Python, and dat
 ## 📁 Projects
 
 ### 🔹 1. Layoffs Data Cleaning (SQL)
-
+Dataset:
+[Layoffs Data](https://github.com/AlexTheAnalyst/MySQL-YouTube-Series/blob/main/layoffs.csv)
 **Goal**: Clean a dataset of global tech layoffs to make it ready for analysis.
 
 **Highlights**:
@@ -34,6 +35,8 @@ Welcome to my portfolio! This repository is a collection of SQL, Python, and dat
 📄 [View Script](./layoffs_data_cleaning.sql)
 
 ### 🔹 2. Layoffs Exploratory Data Analysis (SQL)
+Dataset:
+[Layoffs Data](https://github.com/AlexTheAnalyst/MySQL-YouTube-Series/blob/main/layoffs.csv)
 **Goal**: Analyze the cleaned layoffs dataset to extract insights and trends using SQL.
 
 **Highlights**:
@@ -42,7 +45,7 @@ Welcome to my portfolio! This repository is a collection of SQL, Python, and dat
 - Built rolling monthly layoff trends
 - Identified extreme cases (e.g. 100% layoffs)
 
-📄 [View Project](./layoffs_eda.sql))
+📄 [View Project](./layoffs_eda.sql)
 
 ### 🔹 3. UKT Indonesia Analysis (PostgreSQL + SQL)
 Dataset:
@@ -60,7 +63,7 @@ Dataset:
 - Classified universities into fee tiers based on minimum UKT.
 - Produced clean, standardized SQL scripts for reproducible analysis.
 
-📄 [View Project](./ukt_db.session.sql))
+📄 [View Project](./ukt_db.session.sql)
 
 ---
 
